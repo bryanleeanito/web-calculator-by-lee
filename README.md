@@ -34,4 +34,4 @@ This project is currently in the development stage (beta). It was created for le
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/bryanleeanito/calculator-web.git
+git clone https://github.com/bryanleeanito/web-calculator-by-lee.git
